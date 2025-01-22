@@ -8,6 +8,7 @@ package week2;
  *
  * @author Dell
  * date 22/01/2025
+ * email: nishant27dec04gmail.com
  */
 public class Week2 {
 
