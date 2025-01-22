@@ -7,6 +7,7 @@ package week2;
 /**
  *
  * @author Dell
+ * date 22/01/2025
  */
 public class Week2 {
 
